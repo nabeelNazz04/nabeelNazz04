@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI and ML**
 
-- 🌱 I’m currently learning **AI ML and DS**
+- 🌱 I’m currently learning **AI&ML**
 
 - 👯 I’m looking to collaborate on **AI and ML**
 
